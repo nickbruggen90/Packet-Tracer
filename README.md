@@ -1,5 +1,5 @@
 # Packet-Tracer examples
-SOHO set-up using EtherChannel: <a href="https://drive.google.com/file/d/1UlAXGKmIirPDxHGWzG7X3EaeZSxKxEfh/view?usp=share_link">example</a>
+SOHO set-up using EtherChannel:
 <a href="https://drive.google.com/file/d/1UlAXGKmIirPDxHGWzG7X3EaeZSxKxEfh/view?usp=share_link">pkt file</a>
 Guidelines:
 1) PC 0,2 in VLAN20 using 10.67.83.16/28
