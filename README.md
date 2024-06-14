@@ -10,7 +10,7 @@ Guidelines:
 4) Use etherchannel
 
 Steps:
-1) Configure the switch/router (these-LINK)
+1) Configure the switch/router
 2) Create the VLANs
 3) Trunk switches
 4) No shutdown router
